@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+nav	{
+	padding: 8px;
+	background-color: steelblue;
+}
+
+.navlink {
+	text-decoration: none;
+	color: white;
+}
+
+#landing {
+	padding: 50px;
+	background-color: lightskyblue;
+	text-align: center;
+}
+
+h1, h2, h3, input, button {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+h1 {
+	font-family: Georgia;
+	font-size: 40px;
+}
+
+h2 {
+	font-family: Ink Free;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-family: Ink Free;
+}
+
+.card {
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+#movies {
+	text-align: center;
+	background-color: ghostwhite;
+	margin-top: 0;
+}
+
+.card-img {
+	height: 300px;
+	width: 300px;
+}
+
+footer {
+	background-color: steelblue;
+	text-align: center;
+	padding: 8px;
+}
